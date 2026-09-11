@@ -1,10 +1,10 @@
 ### Hola, soy Alejandro — IFCT0209 👋
 
-**Técnico IFCT0209 — Sistemas Microinformáticos (en formación)**
+**Técnico IFCT0209 — Sistemas Microinformáticos (CEINA Igualada)**
 
 Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario. Trabajo a diario con **Windows y Arch Linux**, y documento todo mi laboratorio con metodología IFCT0209.
 
-> 🔎 **Busco prácticas no laborales (80h) / primer empleo** como **técnico microinformático · soporte helpdesk**
+> 🔎 **Busco prácticas en empresa (150h) / primer empleo** como **técnico microinformático · soporte helpdesk**
 > 📍 España — remoto o presencial | 📧 iapetus07@gmail.com
 
 ---
@@ -17,11 +17,11 @@ Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuar
 
 ---
 
-#### 🧰 Competencias IFCT0209
+#### 🧰 Competencias IFCT0209 (CEINA)
 
 `Windows 10/11` · `Linux` · `Hardware` · `TCP/IP` · `DHCP/DNS` · `Redes Locales` · `Ofimática` · `HelpDesk` · `Backups`
 
-**Módulos:** MF0219_2 (SO) · MF0220_2 (Red local) · MF0221_2 (Aplicaciones) · MF0222_2 (Aplicaciones microinformáticas)
+**Módulos:** Instalación SO `MF0219_2` · Redes locales `MF0220_2` · Aplicaciones `MF0222_2` · **150h prácticas en empresa**
 
 ---
 
