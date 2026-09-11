@@ -1,56 +1,52 @@
-### Hola, soy i4petvs 👋
+### Hola, soy Alejandro — IFCT0209 👋
 
-**Técnico en Sistemas Microinformáticos y Redes (SMR) — en formación**
+**Técnico IFCT0209 — Sistemas Microinformáticos (en formación)**
 
-Trabajo a diario con **Arch Linux + BlackArch**, monto, rompo y documento. Mi laboratorio es mi CV: todo lo que aprendo acaba en un writeup público con metodología real.
+Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario. Trabajo a diario con **Windows y Arch Linux**, y documento todo mi laboratorio con metodología IFCT0209.
 
-> 🔎 **Busco prácticas FCT / primer empleo** como **técnico de sistemas · microinformática · helpdesk**
+> 🔎 **Busco prácticas no laborales (80h) / primer empleo** como **técnico microinformático · soporte helpdesk**
 > 📍 España — remoto o presencial | 📧 iapetus07@gmail.com
 
 ---
 
 #### 🌐 Portfolio → https://iapetus12.github.io/portfolio/
 
-→ Mi web con formación, habilidades, proyectos y contacto. Si eres reclutador, empieza por ahí.
+→ Mi web con formación IFCT0209, competencias, proyectos y contacto. Si eres reclutador, empieza por ahí.
 
-**[📄 Descargar CV (PDF)](https://github.com/iapetus12/portfolio/blob/main/docs/cv.md)** — plantilla lista, súbelo como `docs/cv.pdf`
+**[📄 CV](https://github.com/iapetus12/portfolio/blob/main/docs/cv.md)** — súbelo como `docs/cv.pdf`
 
 ---
 
-#### 🧰 Stack SMR / Soporte
+#### 🧰 Competencias IFCT0209
 
-`Windows 10/11` · `Arch Linux` · `Debian/Ubuntu` · `Bash` · `TCP/IP` · `DHCP/DNS` · `VirtualBox/VMware` · `Docker` · `Nmap` · `Git` · `HelpDesk`
+`Windows 10/11` · `Linux` · `Hardware` · `TCP/IP` · `DHCP/DNS` · `Redes Locales` · `Ofimática` · `HelpDesk` · `Backups`
+
+**Módulos:** MF0219_2 (SO) · MF0220_2 (Red local) · MF0221_2 (Aplicaciones) · MF0222_2 (Aplicaciones microinformáticas)
 
 ---
 
 #### 🚩 Laboratorio documentado
 
-| Proyecto | Descripción | Link |
+| Proyecto | Qué demuestra (IFCT0209) | Link |
 |---|---|---|
-| **DockerLabs** | 5 máquinas (AdminBypass, Hackcar, Hannah's Coffee, Obsesion, Trust) | [iapetus12/DockerLabs](https://github.com/iapetus12/DockerLabs) |
-| **HTB Writeups** | Nexus, Support, Cohort — informes con CWE y mitigación | [iapetus12/htb-writeups](https://github.com/iapetus12/htb-writeups) |
-| **Pentest Toolkit** | Scripts de red/web para auditoría en lab autorizado | [iapetus12/pentest-toolkit](https://github.com/iapetus12/pentest-toolkit) |
-| **Portfolio** | Esta web + CV | [iapetus12/portfolio](https://github.com/iapetus12/portfolio) |
+| **DockerLabs** | Instalación SO, redes y diagnóstico | [iapetus12/DockerLabs](https://github.com/iapetus12/DockerLabs) |
+| **Survival Hub** | Sistema y red offline en Raspberry Pi | [iapetus12/survival-hub](https://github.com/iapetus12/survival-hub) |
+| **Pentest Toolkit** | Scripts de diagnóstico de red | [iapetus12/pentest-toolkit](https://github.com/iapetus12/pentest-toolkit) |
 
-> Cada writeup = recon → enumeración → explotación/mitigación → informe. Como en un trabajo real.
-
----
-
-#### 📊 GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iapetus12&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/iapetus12)
+<details><summary>Laboratorio complementario (secundario)</summary>
+HTB Writeups y Mindmap — formación extra en ciberseguridad.
+</details>
 
 ---
 
 #### 📫 Contacto
 
 - **Email:** iapetus07@gmail.com
-- **GitHub:** [@iapetus12](https://github.com/iapetus12)
+- **LinkedIn:** [alejandro-ferrer-6894063b5](https://www.linkedin.com/in/alejandro-ferrer-6894063b5)
 - **Portfolio:** [iapetus12.github.io/portfolio](https://iapetus12.github.io/portfolio/)
-- **LinkedIn:** www.linkedin.com/in/alejandro-ferrer-6894063b5
 
-¿Buscas técnico junior que ya sabe moverse en Linux y documentar incidencias? **Escríbeme.**
+¿Buscas técnico IFCT0209 para prácticas o soporte? **Escríbeme.**
 
 ---
 
-<sub>⚠️ Todo el contenido es educativo y probado solo en laboratorios autorizados (DockerLabs, HTB, VulnHub, lab propio).</sub>
+<sub>⚠️ Contenido educativo, probado solo en laboratorios autorizados.</sub>
