@@ -47,7 +47,7 @@ Trabajo a diario con **Arch Linux + BlackArch**, monto, rompo y documento. Mi la
 - **Email:** iapetus07@gmail.com
 - **GitHub:** [@iapetus12](https://github.com/iapetus12)
 - **Portfolio:** [iapetus12.github.io/portfolio](https://iapetus12.github.io/portfolio/)
-- **LinkedIn:** *añade tu enlace aquí y cámbialo en este README*
+- **LinkedIn:** www.linkedin.com/in/alejandro-ferrer-6894063b5
 
 ¿Buscas técnico junior que ya sabe moverse en Linux y documentar incidencias? **Escríbeme.**
 
